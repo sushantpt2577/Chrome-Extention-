@@ -1,4 +1,4 @@
-# Chrome-Extension-Base-Template
+# Chrome-Extension
 This is a basic Chrome Extension
 ### Knowledge
 - HTML
